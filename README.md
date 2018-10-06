@@ -3,13 +3,13 @@ Implementation and comparison of Nesterov's and other first order gradient metho
 
 Main files:
 
-Literature
+  Literature
 
-Matlab Code
+  Matlab Code
 
-Introduction to Accelerated Gradient Method.pdf
+  Introduction to Accelerated Gradient Method.pdf
 
-Presentation ACG.pdf
+  Presentation ACG.pdf
 
 
 
